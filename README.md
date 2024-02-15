@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hi! I'm Ghita, a healthcare professional turned web developer passionate about integrating healthcare and technology. :ordinateur::stéthoscope:
+Hi! I'm Chadi, a Law student turned web developer passionate about helping pepole by using technology. :ordinateur::stéthoscope:
 ## Get in Touch :boîte_aux_lettres_drapeau_relevé:
-- LinkedIn: [linkedin.com/in/ghita-aachab](https://www.linkedin.com/in/ghita-aachab/) :globe_avec_méridiens:
+- LinkedIn: (https://www.linkedin.com/in/chadi-ejja-ba3580153/?originalSubdomain=ma)/) :globe_avec_méridiens:
 - Portfolio: [troopl.com/ghitaaachab](https://troopl.com/ghitaaachab) :globe_avec_méridiens:
 - Email: ghita.aachab@gmail.com :e-mail:
 ## My Projects :marteau_et_clé_anglaise:
