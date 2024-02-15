@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+Hi! I'm Ghita, a healthcare professional turned web developer passionate about integrating healthcare and technology. :ordinateur::stéthoscope:
+## Get in Touch :boîte_aux_lettres_drapeau_relevé:
+- LinkedIn: [linkedin.com/in/ghita-aachab](https://www.linkedin.com/in/ghita-aachab/) :globe_avec_méridiens:
+- Portfolio: [troopl.com/ghitaaachab](https://troopl.com/ghitaaachab) :globe_avec_méridiens:
+- Email: ghita.aachab@gmail.com :e-mail:
+## My Projects :marteau_et_clé_anglaise:
+Here are some of the projects I've been working on:
+1. **Lifeline** - A streamlining health management application with a user-friendly platform.
+   - Technologies: Ruby on Rails | StimulusJS. :fusée:
+2. **Homeheal** - A web application enabling seamless booking of healthcare professionals for at-home services. :maison_avec_jardin:
 <p align="left">
 </p>
 
